@@ -1,0 +1,99 @@
+Yes, the previous brief was cut off. Here is the remaining project context.
+
+## Open World
+
+- Central safe-zone city
+- Multiple explorable regions
+- Hidden locations and secret trainers
+- NPC interactions and quests
+- Dynamic world events
+- Dimensional rifts
+- World bosses
+- Cooperative dungeons
+- Unlockable regions
+
+## Character Progression
+
+- Experience and leveling
+- Fighting-style mastery
+- Skill trees
+- Unlockable abilities
+- Character customization
+- Equipment and inventory
+- Persistent player data
+- Multiple viable character builds
+
+## Multiplayer
+
+- Cooperative PvE
+- Optional open-world PvP
+- Ranked 1v1 and 2v2 arenas
+- Party system
+- Guilds as a future expansion
+
+## Monetization
+
+- Cosmetic auras
+- Outfits and emotes
+- Cosmetic transformation effects
+- Additional character slots
+- No pay-to-win mechanics
+- No paid randomized rewards
+
+## Project Constraints
+
+- Three-person independent development team.
+- Part-time development as a side business.
+- AI-assisted development using Claude Code, Cursor, and Codex.
+- Roblox Studio and Luau.
+- GitHub and Rojo for collaborative development.
+- Limited initial budget.
+- Original anime-inspired intellectual property.
+- Long-term commercial potential.
+
+## First Assignment: Feature-List Critique
+
+Proceed with your recommendation to critique the feature list before writing any code.
+
+Evaluate every proposed feature according to:
+
+- Development complexity
+- Estimated developer hours
+- Dependencies
+- Maintenance burden
+- Multiplayer and networking complexity
+- Performance implications
+- Player enjoyment
+- Replayability and retention potential
+- Monetization potential
+- Suitability for a three-person team
+
+Classify features into four categories:
+
+1. Combat prototype
+2. Minimum viable product
+3. Post-launch updates
+4. Features to remove or reconsider
+
+Identify scope traps, unnecessary complexity, generic gameplay mechanics, and features that sound impressive but provide insufficient player value.
+
+Evaluate how we can differentiate ourselves from existing Roblox anime games rather than becoming another generic grinding simulator.
+
+Propose at least three unique gameplay mechanics that could establish our game's identity.
+
+Then produce:
+
+1. A revised and prioritized feature list.
+2. A realistic MVP scope.
+3. A proposed core gameplay loop.
+4. A development dependency map.
+5. A realistic workload distribution across three developers.
+6. Estimated development hours and major uncertainties.
+7. The five biggest reasons this project could fail.
+8. Essential design questions our team needs to answer.
+
+Do not write implementation code, install dependencies, or modify project files yet.
+
+Treat this as a collaborative preproduction meeting. Challenge our assumptions, explain your reasoning, and recommend alternatives when our ideas are impractical.
+
+Once we approve the revised feature list, we will proceed to technical architecture and then the combat prototype.
